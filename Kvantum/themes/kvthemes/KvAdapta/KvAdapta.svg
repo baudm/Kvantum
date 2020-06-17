@@ -335,7 +335,7 @@
 <path id="progress-pattern-normal-topright" d="m 57.5,140 c 0,-4 -3.5,-7.5 -7.5,-7.5 v 7.5 z "/>
 </g>
 <path style="fill:#00bcd4" id="button-toggled" d="M 179,52 V 20 h -32 v 32 z"/>
-<path style="fill:#fff" id="tabframe-normal" d="m 285.5,883.5 0,32 32,0 0,-32 -32,0 z"/>
+<path style="fill:#f5f6f7" id="tabframe-normal" d="m 285.5,883.5 0,32 32,0 0,-32 -32,0 z"/>
 </g>
 <g id="tabframe-normal-left" transform="matrix(0.8,0,0,0.98461538,264.5002,835.49842)">
 <path style="fill:#fff;fill-rule:evenodd" id="path5181" d="m 26.25,81.2514 0,-32.4998 -5,0 0,32.5 z"/>
@@ -921,4 +921,8 @@
 <use width="100%" x="0" y="0" height="100%" xlink:href="#flat-spin-down-focused" id="flat-spin-minus-focused" transform="translate(0,26)"/>
 <use width="100%" x="0" y="0" height="100%" xlink:href="#flat-spin-down-pressed" id="flat-spin-minus-pressed" transform="translate(0,26)"/>
 <use width="100%" x="0" y="0" height="100%" xlink:href="#flat-spin-down-disabled" id="flat-spin-minus-disabled" transform="translate(0,26)"/>
+<g id="menuitem-separator">
+<path style="opacity:0;fill-rule:evenodd" d="m 226,660 h 10 v 10 h -10 z"/>
+<path style="fill:#d4d4d4;fill-rule:evenodd" d="m 226,664.5 h 10 v 0.5 h -10 z"/>
+</g>
 </svg>
